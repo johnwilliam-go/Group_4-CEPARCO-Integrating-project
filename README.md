@@ -135,7 +135,7 @@ Speedups are relative to the sequential C baseline. Throughput is in Gelem/s. At
 
 ### 5. End-to-end speedup is much lower than kernel speedup
 
-- Although kernel speedup reaches around 80×, total speedup is only around 0.8–3.6× because host-device transfers take up a significant amount of the execution time.
+- Although kernel speedup reaches around 56×, total speedup is only around 0.8–3.6× because host-device transfers take up a significant amount of the execution time.
 
 ### 6. Large bin counts result in lower speedups
 
