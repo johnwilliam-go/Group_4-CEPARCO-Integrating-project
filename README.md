@@ -1,4 +1,5 @@
-# Adaptive CUDA Histogram for Skewed Data
+# Integrating project milestone #2
+# Topic: Adaptive CUDA Histogram for Skewed Data
 
 **Google Colab:** https://colab.research.google.com/drive/12aOsb-JMhCQ2kyEnV60-Jn_YYzwSKD0u?usp=sharing <br>
 **Demo video:** https://drive.google.com/file/d/1J05qohf3dNnzeuW5Dy7QWJu-o9DDY7H3/view?usp=sharing
